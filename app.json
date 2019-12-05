@@ -1,0 +1,19 @@
+{
+  "appKey": "17MK6TVzbhRbjHCFvblwE6ur86hARH3r",
+  "appSecret": "KyOhNhYfdryjiD4nHqoZsTvyHSWY5Nrz",
+  "projectId": "f48ec10a9038a5bd77a20b55ee24514a",
+  "id": 161,
+  "name": "teat-uat",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/chenxing-lh/teat-uat.git",
+    "isPrivate": 0,
+    "username": "381606250@qq.com",
+    "password": "lh15627836616"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
